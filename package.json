@@ -1,5 +1,8 @@
 {
   "version": "1.0.6",
+  "keywords": [
+    "ember-addon"
+  ],
   "dependencies": {
     "grunt": "*",
     "grunt-karma": "~0.9.0",
