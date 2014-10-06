@@ -5,8 +5,8 @@
 // ==========================================================================
 
 
-// v1.0.6
-// c1dc30b (2014-07-27 00:05:25 -0400)
+// v1.0.7
+// 42a10d1 (2014-10-04 12:09:20 -0700)
 
 
 (function() {
@@ -543,7 +543,7 @@ Ember.Application.initializer({
 
 (function() {
 
-var VERSION = "1.0.6";
+var VERSION = "1.0.7";
 
 DS.DjangoRESTSerializer.VERSION = VERSION;
 DS.DjangoRESTAdapter.VERSION = VERSION;
